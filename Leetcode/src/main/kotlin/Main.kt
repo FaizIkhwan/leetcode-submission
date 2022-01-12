@@ -1,4 +1,6 @@
+import cheatsheet.BinarySearch
+
 fun main(args: Array<String>) {
-    val logicClass = BiweeklyContest69C()
+    val logicClass = BinarySearch()
     logicClass.main()
 }

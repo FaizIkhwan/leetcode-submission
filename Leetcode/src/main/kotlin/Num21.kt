@@ -1,3 +1,5 @@
+import model.ListNode
+
 class Num21 {
     fun main() {
         var l1 = ListNode(3)
